@@ -19,14 +19,16 @@ Telegram Bot Available: [@AaveHealthFactorTrackerbot](https://t.me/AaveHealthFac
 ## Interface
 
 Adding Wallet to Track
-![wallet](./images/wallet.jpg)
-  
+
+<img src="./images/wallet.jpg" height=25%>
   
 Setting Up Critical Health Factor
-![notification](./images/notification.jpg)  
+
+<img src="./images/notification.jpg" height=25%> 
 
 Getting Current Health Factor
-![hf](./images/hf.jpg) 
+
+<img src="./images/hf.jpg" height=25%>
 
 
 ## FAQ
